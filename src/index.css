@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+*,
+*::before,
+*::after{
+    box-sizing:border-box;
+}
+body {
+    font-family: 'Open Sans',
+    sans-serif;
+    overflow-x: hidden;
+}
+a{
+    text-decoration:none;
+}
+li{
+    list-style-type:none;
+}
+input,
+textarea{
+    outline:none;
+}   
+
