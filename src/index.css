@@ -1,3 +1,8 @@
+:root{
+    --button-bg:#005678;
+    --header-bg:#005678;
+}
+
 *{
     padding:0px;
     margin:0px;
@@ -9,7 +14,7 @@
 }
 body {
     font-family: 'Open Sans',
-    sans-serif;
+    sans-serif !important;
     overflow-x: hidden;
 }
 a{
